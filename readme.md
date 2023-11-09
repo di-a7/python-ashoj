@@ -10,7 +10,7 @@ git add .
 
 git status
 
-<!-- to commit -->
+<!-- to commit -->0
 <!-- m ->message -->
 
 git commit - m"<MESAGE>"
